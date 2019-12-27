@@ -1,0 +1,257 @@
+@charset "utf-8";
+#wrap {
+	width: 1600px;
+	float: left;
+}
+#page_header {
+	float: left;
+	width: 1600px;
+	background-image: url(images/lloyd_03.gif);
+	background-repeat: repeat-x;
+	background-color: #FFF;
+}
+.jbFixed {
+        position: fixed;
+        top: 0px;
+      }
+#page_main {
+	float: left;
+	width: 1000px;
+	margin-left: 300px;
+	margin-bottom: 40px;
+}
+
+#qnatitle {
+	float: left;
+	height: 50px;
+	width: 1000px;
+	font-family: "맑은 고딕";
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+}
+#qnacontent {
+	float: left;
+	height: 700px;
+	width: 1000px;
+}
+
+
+
+#page_footer {
+	float: left;
+	height: 300px;
+	width: 1000px;
+	margin-left: 300px;
+	font-size: 10px;
+	border-top-width: 1px;
+	border-top-style: groove;
+}
+#companyinfo {
+	float: left;
+	height: 125px;
+	width: 390px;
+	margin-top: 10px;
+	margin-left: 23px;
+}
+#bankinfo {
+	height: 125px;
+	width: 170px;
+	margin-top: 10px;
+	margin-left: 23px;
+	float: left;
+}
+#callcenter {
+	float: left;
+	height: 114px;
+	width: 170px;
+	margin-top: 10px;
+	margin-left: 23px;
+}
+#delivery {
+	float: left;
+	height: 57px;
+	width: 148px;
+	margin-top: 10px;
+	margin-left: 23px;
+}
+#bestseller_content {
+	float: left;
+	height: 550px;
+	width: 1000px;
+}
+.item {
+	float: left;
+	height: 225px;
+	width: 200px;
+	margin-top: 30px;
+	margin-left: 100px;
+}
+#newarrival {
+	float: left;
+	height: 30px;
+	width: 1000px;
+	font-family: "맑은 고딕";
+	font-size: 15px;
+	text-align: center;
+	margin-top: 50px;
+	border-bottom-width: 1px;
+	border-bottom-style: groove;
+}
+
+
+
+
+
+#top_content {
+	float: left;
+	height: 160px;
+	width: 1000px;
+	margin-left: 300px;
+}
+#logo {
+	float: left;
+	height: 50px;
+	width: 200px;
+	margin-top: 65px;
+	margin-left: 400px;
+}
+
+
+#Tmenu {
+	height: 35px;
+	width: 360px;
+	font-size: 15px;
+	text-align: right;
+	float: right;
+}
+#serchbox {
+	float: right;
+	height: 40px;
+	width: 320px;
+	margin-top: 70px;
+}
+#pannel {
+	float: left;
+	width: 100%;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: groove;
+	border-bottom-style: groove;
+	height: 40px;
+	border-top-color: #dbdbdb;
+	border-right-color: #dbdbdb;
+	border-bottom-color: #dbdbdb;
+	border-left-color: #dbdbdb;
+}
+#pannel_content {
+	float: left;
+	width: 1000px;
+	margin-left: 300px;
+	height: 40px;
+	text-align: center;
+}
+#mainimage {
+	float: left;
+	height: 1000px;
+	width: 1500px;
+	margin-left: 30px;
+	margin-top: 5px;
+	border: 1px groove #FFF;
+	color: #000;
+	background-color: #FFF;
+}
+#bestseller {
+	float: left;
+	height: 30px;
+	width: 1000px;
+	text-align: center;
+	font-family: "맑은 고딕";
+	font-size: 15px;
+	border-bottom-width: 1px;
+	border-bottom-style: groove;
+	margin-top: 50px;
+}
+.qnamanu {
+	float: left;
+	height: 70px;
+	width: 130px;
+	margin-top: 10px;
+	margin-left: 30px;
+	border: 1px groove #CCC;
+}
+#qnatable table {
+	font-family: "맑은 고딕";
+	font-size: 9px;
+	background-color: #FFF;
+	border-right-style: none;
+	border-left-style: none;
+}
+#qnatable table tr td {
+	background-color: #FFF;
+	border-right-style: none;
+	border-left-style: none;
+	border-bottom-style: none;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #FFF;
+}
+#qnatable table tr th {
+	border-right-style: none;
+	border-left-style: none;
+}
+
+
+
+
+#qnatable {
+	float: left;
+	height: 420px;
+	width: 900px;
+	margin-top: 70px;
+	margin-left: 50px;
+}
+#memberApp {
+	float: left;
+	height: 150px;
+	width: 1400px;
+	margin-top: 30px;
+	margin-left: 100px;
+	margin-bottom: 15px;
+}
+#mainMemberApp {
+	float: left;
+	height: 650px;
+	width: 1400px;
+	margin-top: 3px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+#mainMemberApp table {
+	text-align: left;
+	color: #000;
+	margin-top: 10px;
+	border-top-color: #FFFFFF;
+	border-right-color: #FFFFFF;
+	border-bottom-color: #FFFFFF;
+	border-left-color: #FFFFFF;
+}
+#list {
+	float: right;
+	height: 20px;
+	width: 250px;
+	font-weight: bold;
+}
+.list {
+	color: #F00;
+}
+.memberAppFooter {
+	float: left;
+	height: 47px;
+	width: 1500px;
+	margin-top: 20px;
+	margin-left: 100px;
+	text-align: center;
+}

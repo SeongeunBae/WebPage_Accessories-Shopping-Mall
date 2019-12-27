@@ -1,0 +1,25 @@
+@charset "utf-8";
+.loginwhe {
+	width: 385px;
+	margin-left: 350px;
+	height: 200px;
+	margin-top: 80px;
+	font-size: 10px;
+}
+
+#left {
+	font-size: 10pt;
+	text-align: left;
+}
+#submit {
+	color: #FFF;
+}
+a:link {
+	color: #000;
+}
+a:visited {
+	color: #309;
+}
+a:hover {
+	color: #309;
+}
