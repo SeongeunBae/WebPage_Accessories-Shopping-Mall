@@ -1,3 +1,3 @@
-# WepPage_Accessories-Shopping-Mall
+# WebPage_Accessories-Shopping-Mall
 
 java, js, mysql, css
